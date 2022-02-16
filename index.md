@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# Наша миссия
+
+- Помогать друг другу создавать качественные приложения и инструменты в сфере VoiceTech/Voice Assistants и зарабатывать на них
+- Развиваться самим и помогать развиваться другим в голосовых технологиях
+- Открывать, находить и распространять лучшие практики дизайна и разработки для голосовых продуктов
+
+
 
 You can use the [editor on GitHub](https://github.com/voice-lunch-russia/voice-lunch-russia.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
