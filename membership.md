@@ -9,9 +9,9 @@ layout: default
 
 Другие ресурсы:
 
-[Youtube](https://www.youtube.com/channel/UCWS33BPTpucZjQ6MVMqxOMQ)
+- [Youtube](https://www.youtube.com/channel/UCWS33BPTpucZjQ6MVMqxOMQ)
 
-[Англоязычное сообщество](http://voicelunch.com/) 
+- [Англоязычное сообщество](http://voicelunch.com/) 
 
 
 
