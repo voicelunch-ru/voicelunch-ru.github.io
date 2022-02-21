@@ -1,4 +1,4 @@
-[Link to another page](./another-page.html).
+[Календарь событий](./calendar.html).
 
 
 # Наша миссия
